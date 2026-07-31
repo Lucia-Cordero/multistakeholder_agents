@@ -27,3 +27,7 @@ NCBI_EMAIL=your_email@example.com
 ```
 
 `NCBI_API_KEY` is optional (raises the PubMed rate limit, register free at ncbi.nlm.nih.gov/account), `NCBI_EMAIL` is NCBI's requested identifier, not a credential.
+
+## A note on how this was built
+
+The experimental design, case selection, the contamination protocol, the corpus methodology, the four-condition structure, and the evaluation approach are mine. The code implementation was built with Claude (Anthropic), including debugging the PubMed pipeline and the agent-calling logic. Where the notebook or write-up describes a design decision or a finding, that's my judgment; where it describes how a function works, that's collaborative implementation.
