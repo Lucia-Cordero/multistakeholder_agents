@@ -1,0 +1,24 @@
+## Assessment: Biology / Mechanistic Rationale for GID
+
+**Bottom line:** The mechanistic case that TRANSEURO's redesign will prevent graft-induced dyskinesia (GID) is **incomplete and only partially justified**. The evidence base shows GID etiology was still unresolved and multifactorial at the time of the decision, while the redesign elements documented in the evidence package (patient selection, standardized tissue handling, presumably improved placement) address some but not all of the leading candidate mechanisms — and the strongest single mechanistic candidate (serotonergic contamination of the graft) is not clearly countered by anything in the redesign as described.
+
+---
+
+### Concern 1 — GID has no single validated mechanism; multiple competing hypotheses remain unresolved (High confidence)
+
+By 2014, reviews explicitly frame GID as having several partially-supported but non-exclusive causes: uneven/patchy striatal reinnervation dependent on graft placement (PMID 16256359), graft size (PMID 16406222), pregraft L-DOPA "priming" and pre-existing L-DOPA-induced dyskinesia (PMID 19399877, 19393238), and serotonergic-to-dopaminergic imbalance within the graft causing unregulated, non-physiological dopamine release (PMID 22579773). Multiple dedicated reviews (PMID 20868333, 20887881, 21907087, 23195418, 23828589) explicitly state that no consensus mechanism had been established and that "significant differences in clinical trial protocols and lack of a truly representative animal model has hindered the search for a conclusive basis" (PMID 21907087). A redesign built on an incompletely resolved mechanism cannot be said to "adequately address" the cause — because the cause itself was not singularly known. This is a fundamental biological gap, not merely a design detail.
+
+### Concern 2 — TRANSEURO's documented redesign lever (patient selection) targets a different variable than the leading mechanistic candidates (Moderate-high confidence)
+
+The clearest description of TRANSEURO's actual changes in the evidence package centers on patient selection — younger, earlier-stage, better-preserved patients (PMID 20489615, 24372386, 25170676) — extrapolated from the age-stratified benefit seen in PMID 11236774. However, the mechanistic literature on GID implicates graft **placement pattern/homogeneity of reinnervation** (PMID 16256359), **graft cellular composition** (serotonergic contamination, PMID 22579773; PMID 17916042), and **graft size** (PMID 16406222) as proximate causes — not patient age per se. Selecting younger patients may reduce confounding from long-standing L-DOPA priming (partially relevant per PMID 19399877), but it does not directly modify graft tissue composition or surgical deposition pattern, which are the mechanisms with the strongest preclinical (rodent) causal evidence. There is a mismatch between the identified pathophysiology and the primary lever being pulled.
+
+### Concern 3 — The strongest single mechanistic candidate (serotonergic neuron contamination) is not clearly addressed, and may not be technically addressable via standard VM dissection (Moderate confidence)
+
+PMID 22579773 provides the most mechanistically specific account: dopamine released by serotonergic terminals lacking autoregulatory D2 autoreceptor feedback, occurring when grafts contain both DA and 5-HT neurons, produces GID-like behavior in rats; buspirone (partial clinical correlate, cited from Politis et al.) suppressed GID in a small human sample. This is compelling but (a) is based on a rat pharmacological model with only anecdotal human corroboration, and (b) fetal ventral mesencephalic dissections used in trials to date have not been shown, in this evidence package, to reliably exclude serotonergic (raphe-adjacent) precursors — dissection boundaries at 6-9 weeks gestation are imprecise. No source in the package documents that TRANSEURO altered dissection protocols to reduce serotonergic content specifically. If this is indeed a major causal contributor, the redesign as evidenced does not clearly mitigate it, leaving meaningful residual risk of recurrent GID.
+
+---
+
+### Secondary note (not scored against the GID criterion but relevant to overall biological risk)
+Evidence of host-to-graft α-synuclein/Lewy body propagation (PMID 18391963, 20846907, 21245577, 22936307) raises a distinct long-term biological concern (disease propagating into grafted neurons over 10+ years) that is unrelated to GID but bears on overall program justification; it does not change the GID-specific assessment above.
+
+**Overall confidence in the negative assessment (redesign inadequately addresses the *known* cause of GID):** Moderate-to-high — driven mainly by the fact that "the known cause" was not singular or fully established, and the documented redesign features emphasize patient selection rather than the graft-composition/placement mechanisms with the best mechanistic (if still preclinical) support.

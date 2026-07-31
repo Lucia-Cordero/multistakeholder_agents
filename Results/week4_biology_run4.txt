@@ -1,0 +1,41 @@
+## Assessment: Does TRANSEURO's mechanistic rationale adequately address the known cause of graft-induced dyskinesia (GID)?
+
+**Bottom line: No — not adequately. The rationale addresses several *plausible contributing factors* to GID, but as of the December 2014 evidence base, there is no single "known cause" of GID; the field has multiple, only partially reconciled, mechanistic hypotheses, and TRANSEURO's redesign (patient selection, tissue handling, graft placement) does not clearly cover the strongest mechanistic candidate (serotonergic terminal contamination/false-transmitter release).**
+
+---
+
+### Top three concerns
+
+**1. GID does not have a single established mechanism — the causal picture is multifactorial and unresolved, so "addressing the known cause" is not a well-posed claim.**
+Confidence: **High**
+
+By 2014, at least four largely independent hypotheses were still in active competition, none conclusively adjudicated:
+- Uneven/patchy striatal reinnervation from small, focal graft deposits (PMID 16256359)
+- Graft size/dopaminergic overgrowth (PMID 16406222)
+- Serotonergic neuron co-transplantation causing dysregulated, non-autoregulated dopamine (and serotonin-as-false-transmitter) release, supported by buspirone reversal and 5-HT1 receptor pharmacology (PMID 22579773)
+- Pre-graft L-DOPA "priming" and pre-existing L-DOPA-induced dyskinesia altering striatal plasticity before graft placement (PMID 19399877, PMID 19393238)
+- Host inflammatory/gliotic reaction around the graft (PMID 20868333, PMID 8797670, PMID 15717048)
+
+Review articles from the group running TRANSEURO explicitly acknowledge this lack of resolution: "questions still remain as to the underlying mechanism" (PMID 21907087, 2011) and hypotheses are listed without adjudication (PMID 20868333, 2010; PMID 23195418, 2012). This directly undercuts any claim that the redesign is grounded in a demonstrated causal mechanism rather than a set of correlational risk factors.
+
+**2. The mechanistic hypothesis with the strongest direct pharmacological/PET evidence — serotonergic contamination of the graft — is not clearly targeted by TRANSEURO's stated design changes.**
+Confidence: **Moderate-High**
+
+PMID 22579773 provides some of the more mechanistically specific evidence: DA-only grafts produced GID-like behavior in rats; serotonin agonists (buspirone, 8-OH-DPAT, CP 94253) suppressed it; and clinically, buspirone abolished GID in patients whose grafts showed 5-HT hyperinnervation on PET. This points toward serotonergic/dopaminergic terminal ratio within the graft as mechanistically causal (dysregulated, non-feedback-controlled dopamine release via serotonergic terminals lacking autoreceptor control). None of the TRANSEURO description papers in this package (PMID 20489615, 24372386, 21901584) describe specific tissue-dissection protocols designed to exclude or minimize serotonergic raphe contamination from the ventral mesencephalic dissection. The redesign as described emphasizes patient selection, graft placement/distribution, and standardization of surgical technique — addressing the "patchy reinnervation" and "L-DOPA priming" hypotheses — but leaves the serotonergic hypothesis largely unaddressed on the biological/tissue-preparation side.
+
+**3. The redesign elements that ARE biologically motivated (patient selection, distributed placement) target correlational risk factors from small clinical series, not an experimentally confirmed causal chain, raising residual risk that GID will recur.**
+Confidence: **Moderate**
+
+- Distributing grafts more evenly across the putamen to avoid "patchy" reinnervation is based on a rat model correlating uneven graft-derived dopaminergic reinnervation with dyskinesia severity (PMID 16256359) and on retrospective comparison of dyskinetic vs. non-dyskinetic patients in one trial — this is associative preclinical/clinical correlation, not a validated causal test in humans.
+- Selecting younger, less advanced patients with presumably shorter/less severe L-DOPA-induced dyskinesia history draws on rodent priming data (PMID 19399877) showing pre-graft chronic L-DOPA reduces graft efficacy and does not prevent GID-like behavior regardless of priming status — notably, that same paper found "GID-like behaviors occur regardless of pregraft levodopa status," which is a direct empirical challenge to using patient/levodopa-history selection as a GID-prevention strategy.
+- Even the TRANSEURO-affiliated authors' own optimistic framing (PMID 23401015, "Give up or move forward?") asserts mechanisms are "much better understood" but this is largely assertion rather than demonstration of a resolved, singular mechanism validated against a definitive prevention strategy in a controlled trial.
+
+---
+
+### Secondary note (not among top 3, but relevant caveat)
+The evidence package also documents host-to-graft α-synuclein/Lewy body propagation (PMID 18391963, 21245577, 20846907) as a long-term concern for graft viability, but this is a distinct phenomenon from GID and does not bear directly on the specific success criterion being evaluated.
+
+---
+
+### Overall conclusion for the BIOLOGY lens
+The mechanistic justification for TRANSEURO is **not adequate** to the stated success criterion. Rather than addressing "the known cause" of GID, the trial redesign incorporates mitigations for several *candidate* risk factors identified from small, heterogeneous clinical series and rodent models — factors that remain incompletely validated and, per the field's own 2010–2013 reviews, unresolved as a unified mechanism. The strongest single mechanistic candidate with pharmacological and imaging support (serotonergic terminal contamination) is not clearly incorporated into the described tissue-preparation redesign. Proceeding to grafting is scientifically defensible as an incremental, risk-mitigated experiment (with appropriate patient consent and monitoring), but it should not be represented as resting on a validated mechanistic solution to graft-induced dyskinesia.

@@ -1,0 +1,39 @@
+# BIOLOGY ASSESSMENT: TRANSEURO Grafting Decision (as of Dec 31, 2014)
+
+## Bottom Line
+**Not adequately justified on strict mechanistic grounds.** The evidence base as of late 2014 does not converge on a single, validated "known cause" of graft-induced dyskinesia (GID) — it supports at least four partially-competing mechanistic hypotheses, several of which are not clearly addressed by anything I can identify in TRANSEURO's stated redesign (patient selection, standardized younger/milder cohort, open-label design). The redesign is a reasonable, evidence-informed risk-reduction strategy, but it is not demonstrably matched to a confirmed causal mechanism, because no such single confirmed mechanism yet exists.
+
+---
+
+## Top Three Concerns
+
+### 1. GID does not have one "known cause" — it has multiple unresolved competing hypotheses
+**Confidence: High**
+
+By 2014, the literature explicitly frames GID mechanism as unresolved. Leading candidate mechanisms include:
+- **Uneven/patchy dopaminergic reinnervation** from small, discrete graft deposits creating focal "hot spots" of supersensitive dopamine release (PMID 16256359)
+- **Graft size/dose effects** (PMID 16406222)
+- **Serotonergic neuron contamination** of the VM graft causing dysregulated "false transmitter" dopamine release via 5-HT terminals lacking dopaminergic autoreceptor feedback — supported by both clinical PET/buspirone data and a rat model (PMID 22579773; reviewed PMID 21126348)
+- **Pre-graft L-DOPA priming/plasticity changes** in the host striatum prior to transplantation (PMID 19399877, 19393238)
+- **Peri-graft inflammatory/gliotic responses** (PMID 8797670, 20868333)
+
+Multiple contemporaneous reviews (PMID 20868333, 20887881, 21907087, 23195418, 23828589, 23401015) explicitly state the mechanism "remains unclear" or list these as parallel, non-exclusive hypotheses rather than a settled etiology. A redesign cannot be judged to "adequately address the known cause" when the field itself had not converged on what that cause is. This is a first-principles problem for the justification, independent of what TRANSEURO actually does.
+
+### 2. The most mechanistically compelling candidate (serotonergic co-graft/false transmitter release) is not clearly targeted by the described redesign
+**Confidence: Moderate**
+
+The serotonergic hypothesis is arguably the strongest available mechanistic account by 2014: it has convergent clinical (PET imaging + pharmacological reversal by buspirone) and preclinical (rat 6-OHDA model, PMID 22579773) support, and a specific, testable causal pathway (5-HT neurons uptaking L-DOPA and releasing dopamine unregulated by autoreceptor feedback). A biologically rigorous redesign would be expected to specify altered dissection protocols to minimize raphe/serotonergic contamination of the ventral mesencephalic tissue, or post-hoc verification of graft serotonergic content. Nothing in the TRANSEURO-specific sources provided (PMID 20489615, 24372386, 25170676) describes such a tissue-composition control — the emphasis in these papers is on patient selection (younger, less advanced disease, non-dyskinetic candidates) and standardized surgical/immunosuppressive protocol, not on dopaminergic:serotonergic cell ratio control in the donor tissue. This is a meaningful gap: the redesign may reduce risk indirectly (younger/less-primed patients, better placement) without directly addressing the leading candidate biological mechanism.
+
+### 3. Graft placement/pattern-of-reinnervation hypothesis requires specific surgical parameters not confirmed in the evidence package
+**Confidence: Moderate**
+
+PMID 16256359 and follow-up work (PMID 16406222, 20887881) argue that uneven, patchy reinnervation from a small number of large deposits — rather than the intrinsic dose of dopamine neurons — is mechanistically responsible for GID, implying that multiple smaller, more evenly distributed deposits across the postcommissural putamen should mitigate risk. TRANSEURO's cited rationale (PMID 20489615, 24372386) references "optimal techniques" and lessons learned but does not specify in the evidence provided that deposit number/distribution was systematically altered based on this hypothesis, nor is there human confirmatory data (as of Dec 2014) that altered placement strategy prevents GID — this remains a rat-model-derived inference (PMID 16256359, 19393238) not yet validated in a controlled human trial. Extrapolation from rodent AIM models to human off-medication dyskinesia carries acknowledged uncertainty (PMID 20868333, 21907087).
+
+---
+
+## Secondary observations (lower weight but relevant)
+- The alpha-synuclein/host-to-graft propagation literature (PMID 18391963, 20846907, 21245577, 21626551) is biologically important for long-term graft durability but is **not** the proposed mechanism for GID specifically — it is a distinct long-term pathological concern and should not be conflated with the dyskinesia justification.
+- TRANSEURO's patient-selection strategy (younger, milder, avoiding those with pre-existing severe L-DOPA-induced dyskinesia) is well-supported as reducing risk (PMID 19399877, 11236774, 12953276 subgroup analyses) but this is a risk-mitigation/epidemiological lever, not a mechanistic solution — it doesn't resolve *why* GID occurs, it selects patients less likely to manifest it.
+
+## Overall Verdict
+From a pure biology/mechanism standpoint, the decision to proceed is **premature relative to the stated success criterion**. The redesign incorporates plausible, partially evidence-based mitigations (patient selection, presumably improved surgical technique) but cannot be said to "adequately address the known cause" of GID because (a) no single known cause was established by consensus as of Dec 2014, and (b) the best-supported specific mechanism (serotonergic false-transmitter release) is not clearly and explicitly incorporated into the tissue-preparation protocol based on the evidence available. Proceeding to human grafting under these conditions represents an acceptable calculated research risk but not a mechanistically closed-loop justification.

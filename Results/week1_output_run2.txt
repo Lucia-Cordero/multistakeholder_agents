@@ -1,0 +1,65 @@
+**Note on method:** The following assessments are constructed strictly from the 46 sources supplied. Where a reviewer's reasoning would normally draw on outside knowledge (e.g., specific TRANSEURO protocol details, exact TRANSEURO patient-age cutoffs, GDNF trial outcomes, iPSC clinical timelines), I flag this explicitly as "not established in this package" rather than asserting it.
+
+---
+
+## 1. BIOLOGY REVIEWER
+
+**Top concern 1 — No single confirmed mechanism for graft-induced dyskinesia (GID).**
+The package contains at least five competing, only partially overlapping hypotheses for GID: uneven/patchy striatal reinnervation from graft placement (PMID 16256359), graft size (PMID 16406222), serotonergic neuron contamination of the graft (PMID 22579773), pre-graft L-DOPA priming (PMID 19399877, 19393238), and host inflammatory/immune reaction (PMID 15717048). Review papers as late as 2011–2012 state plainly that "questions still remain as to the underlying mechanism" (PMID 21907087) and that lack of a "truly representative animal model has hindered the search for a conclusive basis" (PMID 21907087). A redesign that targets one or two of these factors (e.g., placement, patient selection) may leave others (e.g., serotonergic contamination) unaddressed.
+*Confidence: High* — this gap is stated directly and repeatedly across independent reviews in the package.
+
+**Top concern 2 — Serotonergic-contamination hypothesis is mechanistically plausible but not shown to be manufacturing-controlled.**
+Rat data show that dopamine grafts (with or without 5-HT neurons) produce amphetamine-induced GID-like AIMs, and that 5-HT1 agonists (buspirone, 8-OH-DPAT) suppress this behavior (PMID 22579773), implicating serotonergic neurons in aberrant dopamine release causing dyskinesia. Nothing in the package demonstrates that the ventral mesencephalic dissection protocol for the redesigned trial reduces 5-HT neuron content in the graft.
+*Confidence: Medium* — biologically plausible mechanism, but the package does not show it has been translated into a manufacturing/dissection fix.
+
+**Top concern 3 — Host-to-graft disease propagation threatens long-term mechanistic durability.**
+Lewy bodies have been identified in grafted neurons surviving 11–16 years (PMID 18391963), and multiple sources discuss a prion-like, cell-to-cell alpha-synuclein transmission mechanism (PMID 20846907, 21245577, 21626551, 22936307) that could eventually compromise even a technically well-placed, well-composed graft. Even if acute GID mechanisms are addressed, the biological rationale for durable long-term benefit is incomplete.
+*Confidence: Medium* — long-term risk, not a block on proceeding with a well-monitored trial, but weakens the case that this redesign "solves" the biology.
+
+---
+
+## 2. CLINICAL REVIEWER
+
+**Top concern 1 — Reversion to open-label design after two double-blind sham-controlled failures.**
+TRANSEURO is described as an "open label multi-centre surgical transplant trial" (PMID 25170676). This follows two double-blind, sham-surgery-controlled trials that found no significant effect on primary global/motor endpoints overall (PMID 11236774: mean global rating 0.0 vs −0.4, not clearly superior; PMID 12953276: p=0.244 overall). These trials specifically demonstrated the importance of blinding to separate true graft effects from placebo/surgical expectation effects. An open-label design in the new trial reintroduces exactly the confound that motivated the earlier blinded trials.
+*Confidence: High.*
+
+**Top concern 2 — Enrolled patient population may be enriched for GID risk factors.**
+The Cambridge TRANSEURO cohort was younger, more educated, and had better baseline motor function than eligible-but-unenrolled patients, but also had **more motor complications** (i.e., pre-existing dyskinesia) (PMID 25170676). Animal data directly link chronic pre-graft L-DOPA exposure/priming and pre-existing L-DOPA-induced dyskinesia to graft-induced dyskinesia risk (PMID 19399877, 19393238). If enrolled patients are systematically more likely to have motor complications, this raises rather than lowers a known GID risk factor, and the selection is non-random.
+*Confidence: Medium-high.*
+
+**Top concern 3 — Uncertain match between age/severity-dependent efficacy signals and current eligibility criteria.**
+Benefit in the largest double-blind trial was significant only in patients ≤60 years old (PMID 11236774), and stratified analysis in another trial found treatment effect only in milder-disease patients (PMID 12953276, p=0.006 for milder stratum). The evidence package does not specify whether TRANSEURO's eligibility criteria were calibrated against these prior severity/age findings; this is an open question rather than a documented failure.
+*Confidence: Medium (uncertainty stems from absence of protocol detail in the package, not a confirmed flaw).*
+
+---
+
+## 3. REGULATORY REVIEWER
+
+**Top concern 1 — High, well-documented incidence of a serious, largely irreversible adverse effect.**
+56% of transplanted patients developed off-medication dyskinesia in one controlled trial (PMID 12953276), and 15% had recurrence of dystonia/dyskinesia in another after initial improvement (PMID 11236774). Because the intervention is neurosurgical implantation of living tissue that cannot be retrieved, this adverse effect is potentially permanent. The mitigations proposed for the redesign (placement, patient selection, possibly reduced graft size) are supported only by preclinical rodent data (PMID 16256359, 16406222, 22579773) and correlational human imaging (cited within 22579773), not by prospective clinical validation of the new protocol itself.
+*Confidence: High.*
+
+**Top concern 2 — Unresolved long-term host-to-graft disease propagation risk.**
+Evidence of Lewy pathology developing within long-surviving grafts (PMID 18391963) and mechanistic support for prion-like alpha-synuclein transfer (PMID 20846907, 21245577) represent a risk of unknown magnitude and timeline that must be disclosed but cannot currently be quantified for consent purposes.
+*Confidence: Medium.*
+
+**Top concern 3 — Ethical/logistic complexity of multi-donor-per-patient fetal tissue procurement across a multi-center European trial.**
+Prior trials required as many as four fetal donors per side per patient (PMID 12953276) or four embryos bilaterally (PMID 11236774). The package documents general ethical/practical complications of aborted fetal tissue use (PMID 15717042, 15717048) but does not document a harmonized cross-jurisdictional regulatory/ethical framework for procurement at the scale a multi-site trial would require.
+*Confidence: Medium (inferred from absence of documentation in the package rather than from a demonstrated failure).*
+
+---
+
+## 4. CMC/MANUFACTURING REVIEWER
+
+**Top concern 1 — Intrinsically poor and variable dopaminergic neuron survival through preparation and grafting.**
+Only 3–10% of grafted dopaminergic neurons typically survive transplantation (PMID 8566192). Enzymatic dissociation alone kills ~30% of dopaminergic neurons before implantation, and of the remainder, up to 87% die within 3 days in monolayer conditions; even in better 3D/explant conditions, the graft microenvironment in vivo causes the majority of neuronal loss within the first 7 days post-implantation due to gliosis/toxicity (PMID 8797670, 8566192). This means outcomes are highly sensitive to handling technique, and no standardized, validated manufacturing process is demonstrated in this package.
+*Confidence: High.*
+
+**Top concern 2 — Multi-donor-per-patient requirement is a hard scale constraint.**
+Historical trials required up to four fetal donors per side per patient (PMID 12953276) or four embryos per patient (PMID 11236774). Sourcing, timing, and processing this many fresh/cryopreserved fetal tissue samples per patient, synchronized with surgical schedules across multiple European sites, is a nontrivial supply-chain problem that the package's historical trials (largely single or few-center, e.g., PMID 1435880, 2786405) do not demonstrate has been solved at multi-site scale.
+*Confidence: Medium-high (inferred scale problem; no source in the package directly confirms or refutes multi-site feasibility).*
+
+**Top concern 3 — No demonstrated quality-control assay for graft composition (e.g., serotonergic neuron content).**
+Reviews explicitly flag "variability of functional outcome" tied to "dissection and cellular composition of the graft tissue" as an unresolved problem, calling for tissue "standardized and quality controlled" (PMID 15717042). Given the serotonergic-contamination hypothesis for GID (PMID 22579773), the absence of any documented assay to quantify or control 5-HT neuron content in the final graft product is a specific, unaddressed manufacturing/release-testing gap.
+*Confidence: Medium.*

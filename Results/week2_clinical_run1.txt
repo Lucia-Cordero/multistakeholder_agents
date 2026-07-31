@@ -1,0 +1,33 @@
+# Assessment: TRANSEURO Trial Justification (Clinical Perspective, as of Dec 31, 2014)
+
+## Overall Judgment
+Based solely on the evidence package, the case for proceeding is **mixed-to-cautiously-justified**. There is a real biological signal (graft survival, dopamine reinnervation, and functional benefit in some subgroups: PMID 1435880, 7700284, 11236774, 12953276), and substantial mechanistic work has been done since 2006 to explain and potentially mitigate graft-induced dyskinesia (GID). However, several design and selection issues from the available evidence are not fully resolved.
+
+---
+
+## Top 3 Concerns
+
+### 1. Loss of the sham-controlled design that produced the field's only rigorous negative/null data
+**Confidence: High**
+
+The two studies that meet the highest evidential standard in this package — double-blind, sham-surgery-controlled trials — both failed on their pre-specified primary endpoints (PMID 11236774: global rating scale, no significant difference; PMID 12953276: UPDRS motor score, p=0.244, "cannot be recommended as therapy based on these results"). Benefit was only recoverable in **post-hoc subgroups** (younger patients in 11236774; milder disease in 12953276). TRANSEURO's own description in the package (PMID 25170676) characterizes it as an "open label" trial. Reverting to an open-label design reintroduces the very placebo/expectation confound that the double-blind trials were built to eliminate, and it does so in a therapeutic area (PD motor symptoms) known to be highly susceptible to placebo response. Any positive clinical signal from an open-label design will be difficult to interpret against this backdrop, and the rationale for proceeding leans heavily on subgroup post-hoc findings rather than confirmed primary outcomes.
+
+### 2. GID risk-mitigation strategies are preclinically derived and not prospectively validated in humans; unavoidable clinical realities (chronic pre-graft levodopa) work against them
+**Confidence: Moderate-High**
+
+A large body of rodent work (PMID 16256359, 16406222, 19399877, 19393238, 22579773) has proposed specific causal mechanisms for GID — patchy/uneven striatal reinnervation, graft placement (rostral vs. caudal), graft size, serotonergic co-innervation, and critically, **pre-graft chronic L-DOPA exposure ("priming")**, which is shown to increase the severity of graft/amphetamine-induced abnormal involuntary movements (19399877, 19393238). These are rat AIM models, explicitly noted as only an "approximation" of human GID (19393238), and none of these mitigation strategies (optimized placement, larger/more standardized grafts) had been validated in a completed human trial as of this date. Moreover, by definition, any real-world PD patient eligible for transplantation will have years of prior L-DOPA exposure — the very risk factor the animal data identifies as exacerbating graft-related dyskinesia — and this cannot be designed around by patient selection alone. This leaves a real possibility that GID risk is reduced only partially, if at all, despite the extensive redesign effort.
+
+### 3. Patient selection may be enriching for a population with more baseline dyskinesia risk factors, and enrolled patients differ substantially from the broader eligible PD population
+**Confidence: Moderate**
+
+PMID 25170676 (a TRANSEURO-specific analysis) directly reports that enrolled patients were younger, more educated, and had higher cognitive scores than eligible-but-unenrolled patients — consistent with the subgroup signals from prior trials (younger/milder = better outcome, per 11236774, 12953276). However, the same paper also reports enrolled patients had **more motor complications** (i.e., more baseline dyskinesia) than non-enrolled eligible patients. Given the preclinical evidence that pre-existing L-DOPA-induced dyskinesia ("priming") is mechanistically linked to graft-associated abnormal movements (19393238, 19399877), this selection pattern is potentially in tension with the goal of minimizing GID. Additionally, this single-center comparison (n=26 vs n=33) raises generalizability concerns about whether enrolled patients are representative of the broader intended population, and whether the trial's inclusion criteria have fully operationalized the "young, mild disease" lesson from earlier trials in practice.
+
+---
+
+## Additional Note (Lower Priority for This Decision)
+The discovery of host-to-graft α-synuclein/Lewy body propagation (PMID 18391963, 21245577, 20846907, 21626551) raises long-term durability and disease-modification concerns, but the package indicates this occurs over 11–16 years and does not appear to compromise most graft function in that window (18391963), so it is a longer-horizon scientific concern rather than an immediate safety barrier to initiating grafting now.
+
+---
+
+## Explicit Note on Scope
+This assessment is based strictly on the cited PMIDs in the package. I have not incorporated any knowledge of TRANSEURO's actual published outcomes, protocol amendments, or subsequent literature beyond December 31, 2014, since none of that is contained in the evidence package provided.
